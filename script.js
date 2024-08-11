@@ -196,4 +196,4 @@ function displayCurrentMonthYear() {
 }
 
 // Call the function to display the current month and year
-displayCurrentMonthYear();
+// displayCurrentMonthYear();

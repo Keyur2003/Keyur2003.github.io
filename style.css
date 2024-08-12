@@ -1041,3 +1041,8 @@ svg {
     /*   transform:  rotate(390deg); */
     /*   transform-origin: 20px center; */
 }
+
+img {
+  aspect-ratio: 1 / 1;
+  margin: 12px;
+}
